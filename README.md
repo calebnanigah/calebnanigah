@@ -1,74 +1,79 @@
-Hi 👋 My name is Etornam Sunu Bright
+Hi 👋 My name is Caleb Nanigah
 ====================================
 
-Mobile & Backend Engineer
+Quality Assurance Engineer ||  Software (Web Application) Engineer
 -------------------------
 
-I am a goal-driven software engineer who specializes in creating high-performance mobile applications and backend services for businesses and individuals. Throughout my career, I have successfully developed over a dozen fully functional and user-friendly apps for both Android and IOS platforms. My experience spans various technology stacks, including Dart, JavaScript, Typescript, PHP, Swift, Java, and Kotlin, and I also have some familiarity with Go, Rust, and Ruby.
+I am an innovative Software Engineer specialized in PHP web application development and Quality Assurance. Adept at creating scalable, secure applications using modern technologies: Laravel and Vue.js. Proven expertise in building APIs, automated testing, and mentoring.
 
-* 🌍  I'm currently based in Accra, Ghana
-* 🖥️  See my portfolio at [etornam.dev](http://etornam.dev)
-* 📧  You can contact me at [info@etornam.dev](mailto:info@etornam.dev)
-* 🚀  I'm currently working on [Prayer Partner](https://prayerpartner.site) - an AI powered app that helps you learn and understand the word of God.
-* 🧠  I'm learning Rust && LLMs
-* 🤝  I'm open to collaborating on any interesting project
 
-<p align="left">
-<a href="https://www.twitter.com/_iamEtornam" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_iamEtornam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-    <a href="https://www.github.com/iamEtornam" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/iamEtornam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-</p>
+<!-- * 🌍  I'm currently based in Accra, Ghana -->
+<!-- * 🖥️  See my portfolio at  -->
+<!-- * 🚀  I'm currently working on name & explanation -->
+<!-- * 🧠  I'm learning ... -->
+<!-- * 🤝  I'm open to collaborating on any interesting project -->
 
 <p>
     <a href="https://wakatime.com/@7b10be81-8ebd-4223-abbb-5f0b918e7fd4" target="_blank" rel="noreferrer"><img
-src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/></a>
-  <a><img src="https://komarev.com/ghpvc/?username=iamEtornam&label=Profile%20views&color=0e75b6&style=flat" alt="iamEtornam" /></a>
+src="https://wakatime.com/badge/user/586e8921-a5aa-449f-ab23-076a1a3606e4.svg"/></a>
+  <a><img src="https://komarev.com/ghpvc/?username=calebnanigah&color=green" alt="Caleb Nanigah GitHub profile views" /></a>
 </p>
 
 
 
 ### Skills
 
-<p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" />
+  </a>
+  <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" width="36" height="36" alt="Quasar" />
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="36" height="36" alt="Selenium" />
+  </a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg" width="36" height="36" alt="Cypress" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="Adobe XD" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <svg height="100%" viewBox="0 0 61 26" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_2967_1690)"><path d="M31.2078 5.90745H33.4436V17.1052C33.4436 20.0579 32.1134 22.1192 29.0285 22.1192C27.8681 22.1192 26.9625 21.9242 26.3398 21.7013V19.5565C27.0191 19.835 27.8398 19.9743 28.6606 19.9743C30.5568 19.9743 31.2078 18.8601 31.2078 17.2445V5.90745Z" fill="#101214"></path><path d="M37.5475 5.04395C38.4248 5.04395 39.0475 5.57319 39.0475 6.52027C39.0475 7.43949 38.4248 7.99659 37.5475 7.99659C36.6701 7.99659 36.0475 7.46734 36.0475 6.52027C36.0475 5.60105 36.6701 5.04395 37.5475 5.04395ZM36.4437 9.75147H38.5946V22.0077H36.4437V9.75147Z" fill="#101214"></path><path d="M43.9152 22.0077H41.8209V9.75146H43.9152V11.8963C44.6511 10.4478 45.8964 9.4172 48.3303 9.55648V11.6178C45.585 11.3392 43.9152 12.147 43.9152 14.7654V22.0077Z" fill="#101214"></path><path d="M58.3775 19.8072C57.585 21.4228 56.085 22.2584 54.1605 22.2584C50.8492 22.2584 49.1794 19.5008 49.1794 15.8796C49.1794 12.4256 50.9341 9.50077 54.4152 9.50077C56.2265 9.50077 57.6416 10.3086 58.3775 11.8963V9.75147H60.5284V22.0077H58.3775V19.8072ZM54.7265 20.3086C56.6511 20.3086 58.3492 19.1108 58.3492 16.381V15.4061C58.3492 12.6763 56.7926 11.4785 54.953 11.4785C52.5473 11.4785 51.302 13.0384 51.302 15.8796C51.3303 18.8322 52.519 20.3086 54.7265 20.3086Z" fill="#101214"></path><path d="M19.9721 3.40039H10.1797C10.1797 5.79593 12.1608 7.74579 14.5948 7.74579H16.4061V9.44496C16.4061 11.8405 18.3872 13.7904 20.8212 13.7904V4.23605C20.8212 3.76251 20.4533 3.40039 19.9721 3.40039Z" fill="#1868DB"></path><path d="M15.1323 8.19141H5.33984C5.33984 10.5869 7.32098 12.5368 9.75494 12.5368H11.5663V14.2638C11.5663 16.6594 13.5474 18.6092 15.9814 18.6092V9.02706C15.9814 8.58138 15.6134 8.19141 15.1323 8.19141Z" fill="#1868DB"></path><path d="M10.2925 13.0107H0.5C0.5 15.4063 2.48113 17.3561 4.91509 17.3561H6.72641V19.0553C6.72641 21.4509 8.70755 23.4007 11.1415 23.4007V13.8464C11.1415 13.3729 10.7453 13.0107 10.2925 13.0107Z" fill="#1868DB"></path></g></svg>
+  </a>
+  <a href="https://www.gurock.com/testrail/" target="_blank" rel="noreferrer">
+    <img src="https://www.testrail.com/wp-content/uploads/2022/12/TestRail_Logo_Main_01.svg" width="36" height="36" alt="TestRail" />
+  </a>
+  <a href="https://phpunit.de/" target="_blank" rel="noreferrer">
+    <img src="https://phpunit.de/img/phpunit.svg" width="36" height="36" alt="PHPUnit" />
+  </a>
+  <a href="https://pestphp.com/" target="_blank" rel="noreferrer">
+    <img src="https://pestphp.com/www/assets/logo.svg" width="36" height="36" alt="Pest" />
+  </a>
+</div>
 
 
-### Socials
+<!-- ### Support Me -->
 
-<p align="left"> 
-<a href="https://www.twitter.com/_iamEtornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.dev.to/_iametornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/imEtornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/iamEtornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@iamEtornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_iametornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/etornam-sunu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/iametornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@etornam-sunu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/4571266/etornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-</p>
-
-### Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamEtornam&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/iamEtornam)
-
-
-### Stats
-
-<a href="http://www.github.com/calebnanigah"><img src="https://github-readme-stats.vercel.app/api?username=iamEtornam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamEtornam's GitHub stats" /></a>
-
-<a href="http://www.github.com/calebnanigah"><img src="https://streak-stats.demolab.com?user=iamEtornam&theme=python-dark&hide_border=true" alt="GitHub Streak" /></a>
-
-<a href="https://github.com/calebnanigah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamEtornam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/calebnanigah"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- <a href="https://www.buymeacoffee.com/calebnanigah"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
