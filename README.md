@@ -54,7 +54,7 @@ My expertise includes **API development**, **automated testing**, and **mentorin
 ---
 
 ## Metrics
-<p> <a href="https://wakatime.com/@7b10be81-8ebd-4223-abbb-5f0b918e7fd4" target="_blank" rel="noreferrer"> <img src="https://wakatime.com/badge/user/586e8921-a5aa-449f-ab23-076a1a3606e4.svg" alt="Wakatime Stats" /> </a> <a> <img src="https://komarev.com/ghpvc/?username=calebnanigah&color=green" alt="GitHub Profile Views" /> </a> </p>
+<p> <a href="https://wakatime.com/@586e8921-a5aa-449f-ab23-076a1a3606e4" target="_blank" rel="noreferrer"> <img src="https://wakatime.com/badge/user/586e8921-a5aa-449f-ab23-076a1a3606e4.svg" alt="Wakatime Stats" /> </a> <a> <img src="https://komarev.com/ghpvc/?username=calebnanigah&color=green" alt="GitHub Profile Views" /> </a> </p>
 
 ---
 
